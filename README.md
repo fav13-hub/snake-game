@@ -52,9 +52,7 @@ Run the (refactored) game locally:
 
 Alternatively run `snake_fixed.py` which is already cleaned and runnable.
 
-## Demo
 
-Add a short GIF or screenshot to `assets/` and reference it here for a visual demo.
 
 ## What I implemented
 
