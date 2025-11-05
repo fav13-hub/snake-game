@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# Virtual env
+env/
+venv/
+
+# Byte-compiled / cache
+*.pyc
+
+# Distribution
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
