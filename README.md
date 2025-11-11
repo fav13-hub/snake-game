@@ -53,7 +53,6 @@ Run the (refactored) game locally:
 Alternatively run `snake_fixed.py` which is already cleaned and runnable.
 
 
-
 ## What I implemented
 
 - Refactored and fixed legacy code to be runnable and more readable
